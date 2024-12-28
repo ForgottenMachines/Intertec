@@ -1,0 +1,1124 @@
+MEI 3.XX
+Non-System disk or disk error
+Replace and strike any key when ready
+IBMBIO  COMIBMDOS  COM
+IBMBIO  COM'
+IBMDOS  COM'
+HOME1   WKS 
+LETTER  DOC 
+BUD2    SS  
+DANCE       
+PROTECTIBAS 
+AMER    DOC 
+FORM1   DOC 
+USERLET DOC 
+PANASON DOC 
+QUESTIONDOC 
+QUEST2  DOC 
+FILMPHILDOC 
+JANCUB  DOC 
+DANCE   &   
+OME87  WKS 
+HOME87  WK1 
+CON     b
+AUX     t
+COM1    
+COM2    
+PRN     
+LPT1    
+LPT2    P
+LPT3    
+CLOCK$  >
+PQRSVW
+_^[ZYX]
+Insert disk for drive A: and strike
+any key when ready
+SQRVW
+_^ZY[
+NO NAME    
+NO NAME    
+NO NAME    
+NO NAME    
+NO NAME    
+NO NAME    
+QRVW
+_^ZY
+_Yr!
+Bad system disk
+^Yt6
+MEI 3.XXMEI 2.XXIBM  3.1IBM  3.0IBM  2.0
+<Ou 
+<Fu	
+7CC&
+ ,ar
+t[< r
+<ar	<zw
+X[YZ^_]
+\CONFIG.SYS
+\COMMAND.COM
+BUFFERSB
+BREAKC
+DEVICED
+FILESF
+FCBSX	LASTDRIVEL
+COUNTRYQ
+SHELLS
+Unrecognized command in CONFIG.SYS
+Sector size too large in file $
+Bad or missing $Command Interpreter
+Invalid country code
+Configuration too large for memory
+Too many Block Devices
+BUG 
+NUL     
+                Q
+'}(\ 
+'%!-
+'p D "
+d9eJg>e
+)C\`]<]"W
+_Rd-
+t`pd
+^RdW
+(C)Copyright 1981,85 Microsoft Corp.
+Lit.
+Divide overflow
+EEEIII
+OUUY
+AIOU
+@M;S<>==?KRRAA
+^#^|^
+X[YZ^_]
+UWVRQSP.
+VQR3
+tK6:
+tr6:
+ <ar
+j/S3
+< r_<
+t(<	u
+}@r	
+&9E1u1&
+tBP$
+&;]	u
+9XYZ
+<  u
+J7_s
+3r%2
+<*.u
+=.?u
+=??u
+WPSV
+^[SV
+^[X_
+] rA
+&9E1u
+&9E1u
+&9E/u
+z4[XP
+rkWV
+Zr%2
+=. u
+=..u
+XYt 
+uA9U
+r<9]
+@t.XPWR+U
+r<t-
+WPRS&
+t,6:&
+:\t:
+t$<\t <?u
+SPVQ
+Y^X[s
+VWQP
+XY_^
+  =deu-
+ <vu&
+"tV&
+ sP[^YX
+ ^[Xs
+[^YX
+r-&;N
+C&;^
+SRW3
+F,@v
+FONG
+I<*u
+, S6
+X.;&
+r6t><
+PSQR
+IPRQ
+YXZrK
+ZY[3
+ZY[X
+]Z^rb2
+Z_^r:
+Z[XY_r
+=MZt
+=ZMt
+&9]/u
+&9]1t
+:P,@68
+\&8E
+=..u
+ ,`u
+&;E/Xt
+O1u	
+YXr3
+0<9v
+7CC&
+^Jan
+^Feb
+^Mar
+^Apr
+^May
+^Jun
+^Jul
+^Aug
+^Sep
+^Oct
+^Nov
+^Dec
+^Total
+'HOME BUDGET
+' HOUSE
+'   Mortgage
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+'   Interest
+fffff
+(\oZ@
+(,Z@
+'   Tax/bv
+'   Tax/St.G
+'   Prep/Return
+'   Improvement
+'   Interest
+33333
+'   Ins.
+' TOTAL HOUSE
+' UTILITIES
+'   Electricity
+'   Gas/oil
+'   Telephone
+(\/J@
+(\OJ@
+' TOTAL UTIL.    
+'    
+' CAR
+'   Loan/Int
+Qhc@
+'   Payment
+'   License
+'   Insurance
+'   Maintenance
+' TOTAL CAR
+33333
+gffff
+' EXPENSES
+'   Food
+33333
+'   Entertnmt.
+fffff
+ztf@
+fffff
+(\gc@
+'   Gas
+33333
+333333#@
+'   Clothes
+ "this program is designed to allow you to"
+ "get some answers to some questions you"
+ "may have about some events you may have"
+ "seen in your home or at someone else's "
+ "that you have been around."
+ "Let's start with you giving me your"
+ "first name"
+ "[Take your time to read this]"
+ OPEN "n" FOR OUTPUT AS #3
+ "name";N$:
+ "Well ";N$;" let's get down to business"
+ "The areas I know a about are:"
+"1...What to do if you are locked out of your house."
+ "2...How to conduct yourself around"
+ "strangers."
+ "3...What to know about violence in the"
+ "home."
+ "4...What to do if there is physical or"
+ "verbal abuse in a home."
+ "5...What to do if there is sexual abuse in the home."
+ "Do you need any definitions to clarify"
+ "some of this?";
+ " (YES/NO)"; P$
+"NO" 
+ "VIOLENCE could be described with some of the following thoughts:
+ "(a) rough or physical force that injures
+ "OR"
+ "(b) this is unjust...uncalled for"
+ "ABUSE could be described with some of   the following thoughts:"
+ "(a) to use wrongly or improperly"
+ "OR"
+ "(b) to treat in a harmful, injurious or offensive way"
+ "OR"
+ "(c) to speak insultingly or harshly to   or about"
+ "OR"
+ "(d) bad or improper treatment"
+ "When you are ready to move on type Y";Y$
+ "(Y)";Y$
+ "Why don't you pick one of the numbers   from the list"
+ "I will list it again"
+ "pick";P
+ "Sexual abuse in the home is the toughest to understand."
+ "[Take your time to read this]"
+ OPEN "n" FOR OUTPUT AS #3
+ "name";N$:
+ "Well ";N$;" let's get down to business"
+ "The areas I know a 
+GERBILDOC   
+                                   Katy and Michael Connors
+                                   E2929 Hwy N
+                                   Plain, WI  53577
+President
+American of Madison
+2404 W. Beltline
+Madison, WI 53713
+     Last month we reluctantly had to correspond with your
+computer department about some trouble we had in completing
+our purchase of our Panasonic FX-600.  We would like to, at
+this time, inform you that with the aid of Elaine Lust, we
+have completed our system and are satisfied.  Please be
+advised that Elaine and many of her assistants were very
+helpful and prompt with straightening out this unfortunate
+situation.
+                                   Sincerely,
+                                   Katy and Michael Connors
+CC: Elaine Lust
+INTEREST ON(
+12,379.72)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,292.49) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+~qs@
+@total r3c8..r6c8
+@total r11c8..r13c8
+GERBILDOC   
+                                   Katy and Michael Connors
+                                   E2929 Hwy N
+                                   Plain, WI  53577
+Personal Computer Network
+320 West Ohio
+Chicago, IL  60610
+RE:  Memory Expansion for Panasonic FX-600
+We have recently purchased a Panasonic FX-600 from American
+of Madison and are interested in expanding our memory from
+256K to 640K.  Enclosed is the specifications that we would
+need to complete our expansion.  We would appreciate knowing
+the cost and the date that we could expect this to be
+delivered when we order from your company.
+We would like to accomplish this as soon as possible, so we
+would appreciate your prompt response.
+                                   Sincerely,
+                                   Katy and Michael Connors
+y and Michael Connors
+    Katy and Michael Connors
+ne Lust
+ ON(
+4,251.59) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+Kfs@
+@total r3c10..r6c10
+@total
+r11c10..r13c10
+@total
+r17c10..r20c10
+33333CQ@
+'   BS/Lawn/Plow
+'   Misc.
+pUq@
+'   Cleaning
+'   Gifts
+'   School/K
+333333+@
+'   School/E
+'   School/W   
+'   Computer
+33333
+33333
+' TOTAL EXPENSES
+33333
+' HEALTH
+'   Medical
+'   Hospital
+'   Chiro.
+'   Dental
+'   MFI
+'   Eyecare
+333333B@
+333333L@
+'   Life Ins.
+'   Excess Ins.
+'   Health Ins.
+'   Med. Payback
+333333C@
+33333s;@
+ffffffP@
+' TOTAL HEALTH
+fffffD
+gffff
+33333
+' CREDIT CARDS
+'   Mastercard
+GqQ@
+'   Shell
+33333
+333333#@
+'   Sears
+' FARM
+'   Animals
+'   Farm Exp.
+'   Farm Income
+' INCOME
+'   Div.
+'   S.B./Securities
+'   Alliance
+zdU@
+GaU@
+(\_U@
+'   Chain
+JED         
+Total
+HOME BUDGET	
+  HOUSE
+    Interest
+    Interest
+GQb@
+INTEREST ON(
+12,655.79)AT(10.25%
+/ 12)OVER(27*12)FOR
+_s!i
+INTEREST ON(4,430.05
+)at(10.75% / 12 )
+over (27*12)for ( 1
+GQb@
+INTEREST ON(
+12,617.35)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,410.93) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+INTEREST ON(
+12,578.58)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,391.63) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+INTEREST ON(
+12,539.48)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,372.16) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+INTEREST ON(
+12,500.05)AT(10.25%
+/ 12)OVER(27*12)FOR
+ffff
+INTEREST ON(
+4,352.52) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+INTEREST ON(
+12,460.28)AT(10.25%
+/ 12)OVER(27*12)FOR
+ hC@
+INTEREST ON(
+4,332.67) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+INTEREST ON(
+12,420.17)AT(10.25%
+/ 12)OVER(27*12)FOR
+1QC@
+INTEREST ON(
+4,312.67) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+INTEREST ON(
+12,379.72)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,292.49) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+FYZ@
+INTEREST ON(
+12,338.92)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,272.13) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+INTEREST ON(
+12,297.77)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,251.59) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GQb@
+INTEREST ON(
+12,256.27)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,230.87) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+GERBILDOC   
+                                   Katy and Michael Connors
+                                   E2929 Hwy N
+                                   Plain,  WI  53577
+                                   Nov. 28, 1986
+TO: American of Madison
+RE: Computer Sales
+     Let us 1st say that we realize that there is a
+possibility that our letter may arrive after your computer
+department has handled this problem, but we find it necessary
+to speak out at this point before this goes on any longer.
+     We purchased a Panasonic FX-600 from Rick Busse on
+9/27/86.  We bought the computer with an understanding with
+Rick that we wanted to connect it to the serial printer we
+owned.  Rick at this point said there would be no problem,
+and he would order the card that should arrive within ten
+days.(10/7)
+     October 7th arrived and needless to say the card did
+not.  After another few days and phone calls he explained
+that the company he had ordered the card from had a credit
+hold on American.  He then said he would order the card
+from Paradise in California, and it should arrive within a
+week;  approximately 10/24.  We did receive this and were
+assured by Rick that there would be no problem installing it
+ourselves.  We took it home only to find it was not the right
+module.  We called Rick and he assured us he would look into
+it and reorder the part we needed and it should arrive in a
+week.
+     We called back a week later, which bring us to 11/14.
+At this point we were informed Rick was no longer at
+American.  A round trip for us to Madison and home is 100+
+miles and a good 3 hrs. on the road; not to mention  the
+countless moments of planning for baby-sitters and juggling
+our time for these trips.  Also we will mention the now
+mounting expense added to this with the numerous phone calls
+required to establish the new personnel who would now pick up
+where Rick left off and so on.
+     Marty Hicky was the person who was given the task of
+locating our card.  He discovered at this point that the
+module Rick had gotten for our system was only 1/2 of what we
+needed.  He told us the other 1/2 would be there in a
+week.(11/21)  We went in there to meet Marty with hopes the
+card had arrived, which it hadn't.  It was at this point we
+inquired about any additional cost and were informed that the
+card that Rick had planned for us would cost an additional
+$100+.  Realizing we didn't need a 2nd color graphics card,
+since there was one in the FX-600, we took the matter to
+Elaine Lust.  She agreed the system Rick had planned for us
+to connect the serial printer was an unnecessary expense and
+that all we really needed was a serial card.  This is the
+Friday before hunting season.
+     At this point she prompted Marty to locate a card
+through a competitor.  They assured us that there were cards
+in stock and available and that we should bring our CPU in on
+Monday (11/24) and they would install it for us.  Again
+planning a trip to Madison is not a small task!  We are at
+this point trying to put our business on our computer, and we
+have had to make many additional trips to libraries and to
+Madison to use other computers with printers.
+     Monday (11/24) at 5:00pm we had our CPU packed up and
+were 5 minutes away from driving our 3 hour trip to Madison,
+and we receive a call from Marty casually informing us the
+competitor would not sell the card to him, but not to worry
+he would have the card located and purchased within a day or
+two and would call us.  We spent half a day organizing this
+trip trying to get baby-sitters and in 5 more minutes we
+would have been on the road.  We never received this call.
+     At which point we decided to contact Elaine again only
+to find she was on vacation and were referred to John Martin,
+who was unfamiliar with the details of our problem and would
+track it down and get right back to us.  When we didn't hear
+from him for a couple of days, we called and spoke with Gary
+Johnson, who promptly went over to the computer department
+and had John call us.  John explained that the serial card
+was available in Madison and would have it in a couple of
+days.  We also informed him we thought it would be advisable
+to order a card form Panasonic in case it was not.
+     We have not heard anything as of yet and are on our way
+into Madison to meet with them in person again.  We bought
+our computer in good faith, believing American had capable
+salesmen who would give us prompt and complete service.  We
+are trying not to become angry, but are very disappointed.
+If this matter is not taken care of this week with some
+reimbursement for our time and expense, we will refer this
+matter to the Consumer Protection Agency of Madison.
+                                   Sincerely,
+                                   Katy and Michael Connors
+   Katy and Michael Connors
+GQb@
+INTEREST ON(
+12,214.42)AT(10.25%
+/ 12)OVER(27*12)FOR
+INTEREST ON(
+4,209.96) AT(10.75%
+/ 12 ) over (27*12)	for ( 1 )
+TOTAL C1..C12
+i(8	}@
+TOTAL (C1..C12)
+'   AIM
+'   Nlr.
+'   Leach/fam
+'   Carlos
+'   Plaza
+'   Pasture
+'   Blue/darner
+'   Gifts
+'   School
+' TOTAL INCOME
+GERBILDOC   
+                   PC User's Group to Meet
+     Have you uncrunched an Archive file, figured out Lotus
+1-2-3, or discovered the world beyond your computer room with
+the use of modems.  Those of you who have a PC system and
+know all there is to know can stop reading.  Anyone else out
+there who would like to join other PC users who are
+experiencing the trials and tribulations of the personal
+computing revolution...keep reading.
+     On January 21 at 7:00 p.m. (the third Wednesday of the
+month) in Room 201 at the UWRC Campus, a PC users group will
+meet to share user supported software, sources  and
+applications;  experience demonstrations and branch off into
+special interest groups.  This will not be a beginning
+computer course.  Call Michael and Katy Connors at 583-5031
+for any additional information.
+ors at 583-5031 for any
+ditional information.
+GERBILDOC   
+                                   Katy and Michael Connors
+                                   E2929 Hwy N
+                                   Plain, WI  53577
+Panasonic
+425 E. Algonquin
+Arlington Heights, Ill 60005
+RE:  Memory Expansion for Panasonic FX-600
+We have recently purchased a Panasonic FX-600 from American
+of Madison and are interested in expanding our memory from
+256K to 640K.  We corresponded with you approximately two
+weeks ago and you were prompt in supplying us with the
+information we could use to order from two places along with
+the exact ordering codes.  Unfortunately the 800 numbers were
+not in service and we did not receive any addresses to write
+to or any other possibilities.  Could you please have someone
+send this to us or call with a more extensive list.
+                                   Sincerely,
+                                   Katy and Michael Connors
+GERBILDOC   
+             QUESTIONS TO CONSIDER IN SELF-STUDY
+1.  FIND OUT ABOUT YOUR OWN PRENATAL DEVELOPMENT.   WHAT WAS THE STATE
+OF YOUR MOTHER'S HEALTH?  DID SHE CHANGE HER EATING HABITS DURING
+PREGNANCY?  DID SHE SMOKE, DRINK, OR TAKE ANY DRUGS?  DO YOU HAVE ANY
+FAMILY HISTORY OF HEREDITARY DISORDERS?
+2.  WHAT WAS YOUR BIRTH LIKE?  HOW LONG WAS YOUR MOTHER IN LABOR?  DID
+SHE TAKE ANY ANESTHETIC AGENTS?  WHAT DID YOU LOOK LIKE?  WAS THERE ANY
+PROBLEM WITH YOUR DELIVERY OR DURING THE NEONATAL PERIOD?
+3.  WHAT WERE YOUR WEIGHT AND HEIGHT AT BIRTH?  WERE YOU FED BY THE
+BOTTLE OR BREAST? HOW OLD WERE YOU WHEN YOU ROLLED OVER, SAT UP, STOOD
+UP, AND WALKED?  HOW OLD WERE YOU WHEN YOU ACHIEVED BLADDER AND BOWEL
+TRAINING?  WERE THERE  CONFLICTS AROUND THIS?
+4.  DO YOU RECALL SPECIFIC INCIDENTS CONNECTED WITH CHILDHOOD FEARS?
+5.  WHEN DID YOU SAY YOUR FIRST WORD?  WHAT WAS IT?  WHEN DID YOU SAY
+YOUR FIRST SENTENCE?  WHAT WAS IT?
+6.  WAS YOUR INTELLIGENCE EVER TESTED DURING YOUR FIRST THREE YEARS?
+IF SO, WHY?
+7.  WHAT CAN YOU REMEMBER ABOUT YOUR LIFE BEFORE THE AGE OF 3?
+8.  WHAT WAS YOUR TEMPERAMENT LIKE AS A BABY?  WERE YOUR AN EASY,
+DIFFICULT, OR SLOW-TO-WARM-UP CHILD?
+9.  IS YOUR BASIC PERSONALITY SIMILAR TO THOSE OF YOUR PARENTS (NOISY,
+ACTIVE, QUIET, SHY, ETC.)?
+10.  HOW MANY ADULTS SHARED IN YOUR CARE DURING INFANCY (MOTHER ,
+FATHER, OLDER SIBLING, GRANDPARENT, BABY-SITTERS, ETC.)?
+11.  WHEN WAS YOUR FIRST VISIT TO A DENTIST?  WHEN DID YOUR GET YOUR
+FIRST CAVITY?  WHAT MEASURES DID YOUR PARENTS TAKE TO IMPROVE YOUR
+DENTAL HEALTH?
+12.  DO YOU REMEMBER THE PHYSICAL ACTIVITIES YOU ENJOYED AS A
+PRESCHOOLER?  DO YOU HAVE MEMORIES OF YOURSELF RUNNING, JUMPING,
+CLIMBING, AND SO FORTH?
+13.  DID YOU GO TO NURSERY SCHOOL AND /OR DAY-CAR CENTER?  WAS IT A
+POSITIVE OR NEGATIVE EXPERIENCE?  WHAT DO YOU REMEMBER ABOUT IT?
+14.  WHO WERE YOU FIRST PLAYMATES?  DID YOU EVER HAVE AN IMAGINARY
+PLAYMATE?  WHAT WAS IT LIKE?  WHAT WAS YOUR FAVORITE KIND TO PLAY?
+15.  HOW DID YOUR PARENTS DEAL WITH YOUR MISBEHAVIOR--SPANKING,
+SCOLDING, LECTURING, OR WITHDRAWING PRIVILEGES?  RANK THESE FOUR IN
+ORDER IN WHICH YOU WOULD USE THEM WITH YOUR OWN CHILDREN.
+16.  WAS YOUR PARENTS' BASIC STYLE OF CHILD REARING AUTHORITARIAN,
+PERMISSIVE, OR AUTHORITATIVE?
+17.  WERE YOU TALL OR SHORT IN RELATION TO YOUR PEERS?  HOW DID YOU
+FEEL ABOUT IT?
+18.  HOW OLD WERE YOU WHEN YOU LOST YOUR FIRST TOOTH?
+19.  WERE YOU SICK OFTEN AS A CHILD?  HOW DID YOUR HEALTH AFFECT THE
+REST OF YOUR LIFE?
+20  WHAT KINDS OF CHILDHOOD ACCIDENTS DID YOUR SUFFER?  HOW COULD THEY
+HAVE BEEN PREVENTED?
+21.  WHAT PHYSICAL ACTIVITIES DID YOUR ENGAGE IN DURING YOUR ELEMENTARY
+YEARS?  DID YOUR DO THEM IN MIXED BOY-GIRL GROUPS OR ONLY WITH CHILDREN
+OF THE SAME SEX?
+22.  WOULD YOU DESCRIBE YOUR SELF AS REFLECTIVE OR IMPULSIVE?  HOW DID
+THIS ASPECT OF YOUR PERSONALITY SHOW UP IN ELEMENTARY SCHOOL?
+23.  WAS THE ELEMENTARY SCHOOL YOU ATTENDED HIGHLY STRUCTURED OR
+RELATIVELY OPEN?
+24.  WHAT GAMES DID YOU LIKE TO PLAY IN GRADE SCHOOL?  HOW DID YOU FEEL
+ABOUT YOUR SOCIAL STANDING?
+GERBILDOC   
+             QUESTIONS TO CONSIDER IN SELF-STUDY
+1.  DO YOU RECALL SPECIFIC INCIDENTS CONNECTED WITH CHILDHOOD FEARS?
+2.  WHAT CAN YOU REMEMBER ABOUT YOUR LIFE BEFORE THE AGE OF 3?
+3.  WHAT WAS YOUR TEMPERAMENT LIKE AS A BABY?  WERE YOUR AN EASY,
+DIFFICULT, OR SLOW-TO-WARM-UP CHILD?
+4.  HOW MANY ADULTS SHARED IN YOUR CARE DURING INFANCY (MOTHER ,
+FATHER, OLDER SIBLING, GRANDPARENT, BABY-SITTERS, ETC.)?
+5.  DO YOU REMEMBER THE PHYSICAL ACTIVITIES YOU ENJOYED AS A
+PRESCHOOLER?  DO YOU HAVE MEMORIES OF YOURSELF RUNNING, JUMPING,
+CLIMBING, AND SO FORTH?
+6.  WHO WERE YOU FIRST PLAYMATES?  DID YOU EVER HAVE AN IMAGINARY
+PLAYMATE?  WHAT WAS IT LIKE?  WHAT WAS YOUR FAVORITE KIND TO PLAY?
+7.  HOW DID YOUR PARENTS DEAL WITH YOUR MISBEHAVIOR--SPANKING,
+SCOLDING, LECTURING, OR WITHDRAWING PRIVILEGES?
+8.  WAS YOUR PARENTS' BASIC STYLE OF CHILD REARING AUTHORITARIAN,
+PERMISSIVE, OR AUTHORITATIVE?
+9.  WHAT PHYSICAL ACTIVITIES DID YOUR ENGAGE IN DURING YOUR ELEMENTARY
+YEARS?  DID YOUR DO THEM IN MIXED BOY-GIRL GROUPS OR ONLY WITH CHILDREN
+OF THE SAME SEX?
+10.  WAS THE ELEMENTARY SCHOOL YOU ATTENDED HIGHLY STRUCTURED OR
+RELATIVELY OPEN?
+11.  WHAT GAMES DID YOU LIKE TO PLAY IN GRADE SCHOOL?  HOW DID YOU FEEL
+ABOUT YOUR SOCIAL STANDING?
+SCHOOL?  HOW DID YOU FEEL
+TC.)?
+11.  WHEN WAS YOUR FIRST VISIT TO A DENTIST?  WHEN DID YOUR GET YOUR
+FIRST CAVITY?  WHAT MEASURES DID YOUR PARENTS TAKE TO IMPROVE YOUR
+DENTAL HEALTH?
+12.  DO YOU REMEMBER THE PHYSICAL ACTIVITIES YOU ENJOYED AS A
+PRESCHOOLER?  D
+GERBILDOC   
+                                               Katy Connors
+                                               Child Psy. 210
+                       THE HUMAN ANIMAL
+I am fascinated with everyone's opinion.  I enjoy assimilating
+other's ideas and then am pleased that I am able to form my own
+standing.  I believe that I am a centered nature-nurture
+philosopher.  I very strongly believe we are born who we are, and
+that our genes, which are so different from the next person, dictate
+what will can be.   At the same time, I also believe that we are
+capable of handling what nature dealt us in practically any way we
+want;  that is if there is no permanent damage.
+     I was very much interested in the isolation of MAO in deciding
+if one person is more risk oriented than another.  I think it would
+be equally beneficial to be able to isolate the enzyme that makes
+one person more susceptible to the disease of alcoholism or similar
+cunning and deceptive illnesses.  These facts in a world of
+practically all seemingly unprovable theories gives me hope that I
+am entering a field that will be able to come up with the answers we
+will need to fulfill the needs of those who can't deal with what
+nature dealt them or missed out on the nurturing the film so aptly
+pointed out we all need.
+     There is no doubt that we all need a certain amount of
+nurturing to attain some degree of normalcy, but when I see what
+people such as Mr. Glen Doman turn out at the Better Baby Institute,
+I question what will become of that child.  Will he/she be in a
+place that is just as detrimental as a child that has received too
+little nurturing.  As we talked about in class, this show and
+similar information, continues to bring up even more questions.  It
+continues to amaze me that no matter what topic is dicussed there
+are as many answers as there are people.  I enjoyed the film a great
+deal and would recommend it for future classes for the benefit of a
+very simple, clear presentation it offers of the examples of nature
+and nuture sides of human life.
+PERMISSIVE, OR AUTHORITATIVE?
+17.  WERE YOU TALL OR SHORT IN RELATION TO YOUR PEERS?  HOW DID YOU
+FEEL ABOUT IT?
+18.  HOW OLD WERE YOU WHEN YOU LOST YOUR FIRST TOOTH?
+19.  WERE YOU SICK OFTEN AS A CHILD?  HOW DID YOUR HEALTH AFFECT THE
+REST OF YOUR LIFE?
+20  WHAT KINDS OF CHILDHOOD ACCIDENTS DID YOUR SUFFER?  HOW COULD THEY
+HAVE BEEN PREVENTED?
+21.  WHAT PHYSICAL ACTIVITIES DID YOUR ENGAGE IN DURING YOUR ELEMENTARY
+YEARS?  DID YOUR DO THEM IN MIXED BOY-GIRL GROUPS OR ONLY WITH CHILDREN
+OF Tf
+' TOTAL INCOME
+GERBILDOC   
+                            DEN 7
+January 22...........Pack Meeting RVJH Gym-Pinewood Derby
+                     6:00 p.m.
+February 1-8.........Cub Scout Week
+February 2...........Regular Meeting in the school gym
+February 9...........Regular Meeting in the school gym
+February 14..........Make sure RSVP is sent in
+February 15..........Winterfest/S.G. Golf Course
+February 16..........Leaders Meeting/Christ Lutheran Church
+                     7:00 p.m.
+February 26..........Blue and Gold Banquet 6:00 p.m./RVJH
+                     Cafeteria
+Can you believe all this information!  Just wait.  This is what
+was talked about at the Leader's Meeting, which most of us find
+impossible to attend.  If anyone can get there, please go.  I was
+thinking that we could take turns, then everyone would only have to
+go once.  How about it?  We could even team up so no one has to go
+alone.  These night meetings are very hard.
+Anyway this is how it goes.  For the Blue and Gold Dinner, the boys
+are responsible for a few centerpieces for the table with the names
+of the boys on them, writing an invitation for their parents, places
+cards, and each family is asked to bring a dish to pass.  It can be
+meat, vegetable or salad.  We also are responsible for an extra dish
+of meat to feed the tiger cubs.  I thought we could choose up at the
+Feb. 2 meeting.  If you want to make something special and can't be
+there just call.  We will need ideas for the centerpieces before the
+next meeting.  I thought maybe something with grapevines, candles,
+bows, or some combination of the items.  We may need to check out a
+craft book.  Also each family is responsible for their own table
+setting (plate, fork, serving spoon etc.)   The parents need to RSVP
+by the 14th so the information can be given at the Leader's Meeting.
+One more thing.  The Pack Leaders will have an inspection and as the
+kids enter the cafeteria they will be checked out for neatness,
+proper clothing and that their badges are in the right place.  If
+any one has any problem with that just call.
+The Winterfest is something they do every year at the Golf Course in
+Spring Green.  I believe it is winter sports events.  Any other kids
+are invited as long as they are looked after.  It is from 1-4 p.m.
+There will be a sign up for how many brothers and sister will come
+along.
+The first week of Feb. is Cub Scout week and they suggest that
+anyone that attends a church, to ask the religious leader to say
+something special or invite the cub scouts to do a part of the
+service. They also suggest that is there are other kids in cub
+scouts to have them sit together.  If your child is not interested
+don't push it.  They can wear their uniform to the service.
+ervice.
+ary 12...........Leaders Meeting Christ Lutheran Church
+                     7:00 p.m.
+January 14...........Regular Den Meeting to plan skit
+January 22...........Pack Meeting RVJH Gym-Pinewood Derby
+                     6:30 p.m.
+     
+     
+     
+     
+                          A SOLITARY DANCE
+.M:2
+.L:58
+.F:...1...
+        This is a gripping story of young five year old Michael Harris 
+ and  his recovery with the help of the love and direction from his 
+ therapist Pat McGarry.  This heartwarming story is well presented to 
+ the layman in showing what the private world of a schizophrenic child 
+ can be like.  I especially enjoyed the good feelings you received when 
+ entering this tight little space that Mike had made for himself.              
+        We find out that Mike had been an only child of a woman who most   
+ probably had psychotic symptoms for alot of her life and had never rec-
+ eived any medication to relieve her troubled nerves.  She was unable to 
+ care for the child and ultimately was unable to even extend the much   
+ needed physical contact a child needs to feel loved. Mike slowly pulled    
+ himself into a world that contained only himself.  His father seemed to   
+ be unable to acknowledge that there was anything wrong with his wife,   
+ and besides his job, was totally hung up on the 'Power of God'.  Mike  
+ is handed over to the care of Merrick State Psychiatric Hospital. 
+ During his  next few years many tried to reach him and pull him into 
+ the world of reality, but he remained the 'Little Shadow'.  
+        Pat arrived and agreed to try Mike on for size as the child pro-
+ ject he would be required to be responsible for.  The story centers 
+ around a progressive love the two share, and the slow emergence of 
+ Mike's ability to accept Pat's friendship.  The first breakthrough 
+ comes when Mike finds himself in a moment of fear of falling and has 
+ little choice but to accept the hand of his climbing partner.  We know 
+ that Maslow talks about the needs that must be fulfilled before we can 
+ go on to social relationships.  In this case the need to survive, 
+ Mike's need, overpowered the false idea he had built up for himself 
+ that it had to be done all alone. 
+                                        Katy Connors 
+                                        Child Psy. 210
+A SOLITARY DANCE                                                          
+.m:2
+        This is a gripping story of a young five year old Michael Harris and 
+his adventure of receiving a shot of love and direction from his therapist Pat 
+McGarry.  This heartwarming story is well presented to the layman in showing 
+what the private world of a schizophrenic child can be like.  I especially 
+enjoyed the good feelings you received when entering this tight little space 
+that Mike had made for himself.  
+        We find out that Mike had been an only child of a woman who most 
+probably had psychotic symptoms for alot of her life and had never received 
+any medica-tion to relieve her troubled nerves.  She was unable to care for 
+the child and ultimately was unable to even extend the much needed physical 
+contact a child needs to feel loved. Mike slowly pulled himself into a world 
+that contained  only himself.  His father seemed to be unable to acknowledge 
+that there was anything wrong with his wife, and besides his job, was totally 
+hung up on the 'Power of God'. 
+^Jan
+^Feb
+^Mar
+^Apr
+^May
+^Jun
+^Jul
+^Aug
+^Sep
+^Oct
+^Nov
+^Dec
+^Total
+'HOME BUDGET
+' HOUSE
+'   Mortgage
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+'   Interest
+'   Tax/bv
+'   Tax/St.G
+'   Prep/Return
+'   Improvement
+'   Interest
+'   Ins.
+' TOTAL HOUSE
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+fffff@
+' UTILITIES
+'   Electricity
+'   Gas/oil
+'   Telephone
+' TOTAL UTIL.    
+'    
+' CAR
+'   Loan/Int
+'   Payment
+'   License
+'   Insurance
+'   Maintenance
+' TOTAL CAR
+gffff
+' EXPENSES
+'   Food
+'   Entertnmt.
+'   Gas
+'   Clothes
+'   BS/Lawn/Plow
+'   Misc.
+'   Cleaning
+'   Gifts
+'   School/K
+'   School/E
+'   School/W   
+'   Computer
+' TOTAL EXPENSES
+' HEALTH
+'   Medical
+'   UWHos
+'   MadGen
+'   Chiro.
+'   Dental
+'   MFI
+'   Eyecare
+'   Life Ins.
+'   Excess Ins.
+'   Health Ins.
+'   Med. Payback
+' TOTAL HEALTH
+' INSURANCE
+'   BetNeider
+'   PerEx
+' CREDIT CARDS
+'   Mastercard
+fffff&:@
+'   Shell
+'   Sears
+' FARM
+'   Animals
+'   Farm Exp.
+'   Farm Income
+' INCOME
+'   Div.
+'   S.B./Securities
+'   Alliance
+'   Chain
+'   AIM
+'   Nlr.
+'   Leach/fam
+'   Carlos
+'   Plaza
+'   Pasture
+'   Blue/darner
+'   Gifts
+'   School
+' TOTAL INCOME
+^Jan
+^Feb
+^Mar
+^Apr
+^May
+^Jun
+^Jul
+^Aug
+^Sep
+^Oct
+^Nov
+^Dec
+^Total
+'HOME BUDGET
+' HOUSE
+'   Mortgage
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+GQb@
+'   Interest
+'   Tax/bv
+'   Tax/St.G
+'   Prep/Return
+'   Improvement
+'   Interest
+'   Ins.
+' TOTAL HOUSE
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+33333
+fffff@
+' UTILITIES
+'   Electricity
+'   Gas/oil
+'   Telephone
+' TOTAL UTIL.    
+'    
+' CAR
+'   Loan/Int
+'   Payment
+'   License
+'   Insurance
+'   Maintenance
+fffff
+fffff
+' TOTAL CAR
+33333_p@
+' EXPENSES
+'   Food
+'   Entertnmt.
+'   Gas
+'   Clothes
+'   BS/Lawn/Plow
+'   Misc.
+'   Cleaning
+'   Gifts
+'   School/K
+'   School/E
+'   School/W   
+'   Computer
+' TOTAL EXPENSES
+' HEALTH
+'   Medical
+'   Drugs
+'   UWHos
+'   MadGen
+'   Chiro.
+'   Dental
+'   MFI
+'   Eyecare
+'   Life Ins.
+'   Excess Ins.
+'   Health Ins.
+'   Med. Payback
+' TOTAL HEALTH
+p=&w@
+' INSURANCE
+'   BetNeider
+'   PerEx
+' CREDIT CARDS
+'   Mastercard
+fffff&:@
+'   Shell
+'   Sears
+' FARM
+'   Animals
+'   Farm Exp.
+'   Farm Income
+' INCOME
+'   Div.
+fffff
+Qpv@
+'   S.B./Securities
+fffff
+fffff
+'   Alliance
+GaU@
+'   Chain
+'   LaQuinta
+'   AIM
+'   Nlr.
+'   EPL
+'   Leach/fam
+'   Carlos
+'   Plaza
+'   Pasture
+'   Blue/darner
+'   Mad. Arts
+33333
+'   Gifts
+'   School
+' TOTAL INCOME
+ffff
+'Jan/Inc?
+'certificate
+'exp./studio
+'studio/magazine

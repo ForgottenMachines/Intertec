@@ -1,0 +1,573 @@
+Microsoft Windows [Version 10.0.22000.652]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Forgotten Machines>cd \
+
+C:\>cd "Program Files"
+
+C:\Program Files>;s
+'s' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files>dor
+'dor' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files>dir
+ Volume in drive C is OS
+ Volume Serial Number is 9C93-0994
+
+ Directory of C:\Program Files
+
+08/27/2024  12:56 PM    <DIR>          .
+04/20/2024  02:56 PM    <DIR>          7840_QUADPORT
+03/02/2024  04:38 AM    <DIR>          ADI
+08/25/2024  01:59 AM    <DIR>          Adobe
+04/28/2023  11:07 PM    <DIR>          Arduino IDE
+09/06/2024  03:22 PM    <DIR>          ASUS
+02/07/2023  07:45 PM    <DIR>          Audacity
+03/30/2023  09:37 PM    <DIR>          Avidemux 2.7 VC++ 64bits
+08/27/2024  12:08 PM    <DIR>          Bonjour
+11/29/2023  03:36 PM    <DIR>          BraveSoftware
+12/11/2022  10:30 PM    <DIR>          CMake
+05/11/2022  03:01 AM    <DIR>          Common Files
+12/27/2022  01:48 AM    <DIR>          DIFX
+05/07/2024  03:41 PM    <DIR>          dotnet
+04/14/2024  02:10 PM    <DIR>          generic03_usb2serial
+03/17/2023  03:18 AM    <DIR>          GIMP 2
+12/11/2022  11:10 PM    <DIR>          Git
+03/14/2024  06:10 PM    <DIR>          Google
+05/07/2024  03:40 PM    <DIR>          HandBrake
+08/27/2024  12:56 PM    <DIR>          HP
+02/01/2023  12:48 AM    <DIR>          Inkscape
+05/11/2022  03:02 AM    <DIR>          Internet Explorer
+02/23/2023  01:46 AM    <DIR>          KiCad
+02/29/2024  02:00 AM    <DIR>          Logic
+02/04/2022  07:07 PM    <DIR>          Microsoft SQL Server Compact Edition
+02/04/2022  07:07 PM    <DIR>          Microsoft Synchronization Services
+04/26/2022  04:36 PM    <DIR>          Microsoft Update Health Tools
+06/05/2021  07:10 AM    <DIR>          ModifiableWindowsApps
+08/27/2024  12:10 PM    <DIR>          Mozilla Firefox
+03/12/2023  01:10 AM    <DIR>          Notepad++
+04/26/2022  05:15 PM    <DIR>          NVIDIA Corporation
+12/23/2022  09:27 PM    <DIR>          obs-studio
+04/26/2022  04:48 PM    <DIR>          Open-Shell
+09/23/2023  11:56 PM    <DIR>          Oracle
+05/09/2024  02:16 AM    <DIR>          Revo Scan 5
+05/22/2022  11:26 PM    <DIR>          RØDE Microphones
+05/29/2022  04:48 PM    <DIR>          Smart PDF Converter Pro
+11/13/2022  09:15 PM    <DIR>          Stellar Repair for Video
+08/10/2023  04:23 PM    <DIR>          Topaz Labs LLC
+04/28/2022  12:04 AM    <DIR>          VEGAS
+06/09/2022  11:47 PM    <DIR>          VideoLAN
+04/26/2022  06:28 PM    <DIR>          Windows Defender
+04/26/2022  05:35 PM    <DIR>          Windows Mail
+04/26/2022  06:28 PM    <DIR>          Windows Media Player
+06/05/2021  08:09 AM    <DIR>          Windows NT
+04/26/2022  06:29 PM    <DIR>          Windows Photo Viewer
+06/05/2021  07:10 AM    <DIR>          WindowsPowerShell
+               0 File(s)              0 bytes
+              47 Dir(s)  97,434,910,720 bytes free
+
+C:\Program Files>cd grecd
+The system cannot find the path specified.
+
+C:\Program Files>
+C:\Program Files>cd D:\Data\MightyFrame\VCFs\VCFMW\2024\Flux Images\Superbrain
+
+C:\Program Files>d:
+
+D:\Data\MightyFrame\VCFs\VCFMW\2024\Flux Images\Superbrain>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Data\MightyFrame\VCFs\VCFMW\2024\Flux Images\Superbrain>dir
+ Volume in drive D is Main
+ Volume Serial Number is 54C9-9E05
+
+ Directory of D:\Data\MightyFrame\VCFs\VCFMW\2024\Flux Images\Superbrain
+
+09/07/2024  12:46 AM    <DIR>          .
+09/06/2024  11:56 PM    <DIR>          ..
+09/07/2024  12:14 AM         9,681,668 CPM Backup Diskette Data Disk #4 A4 APSYS v2.scp
+09/07/2024  12:01 AM         9,626,746 CPM Backup Diskette Data Disk #4 A4 APSYS.scp
+09/07/2024  12:25 AM        11,187,594 No 15 BAS Fin.mg.scp
+09/07/2024  12:47 AM        10,009,498 x.scp
+               4 File(s)     40,505,506 bytes
+               2 Dir(s)   3,191,341,056 bytes free
+
+D:\Data\MightyFrame\VCFs\VCFMW\2024\Flux Images\Superbrain>cd C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19
+
+D:\Data\MightyFrame\VCFs\VCFMW\2024\Flux Images\Superbrain>cd C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19
+
+D:\Data\MightyFrame\VCFs\VCFMW\2024\Flux Images\Superbrain>c:
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>dir
+ Volume in drive C is OS
+ Volume Serial Number is 9C93-0994
+
+ Directory of C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19
+
+09/07/2024  01:01 AM    <DIR>          .
+09/07/2024  01:01 AM    <DIR>          ..
+09/07/2024  01:01 AM            10,984 api-ms-win-core-console-l1-1-0.dll
+09/07/2024  01:01 AM            22,136 api-ms-win-core-console-l1-2-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-datetime-l1-1-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-debug-l1-1-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-errorhandling-l1-1-0.dll
+09/07/2024  01:01 AM            22,120 api-ms-win-core-fibers-l1-1-0.dll
+09/07/2024  01:01 AM            14,056 api-ms-win-core-file-l1-1-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-file-l1-2-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-file-l2-1-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-handle-l1-1-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-core-heap-l1-1-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-interlocked-l1-1-0.dll
+09/07/2024  01:01 AM            11,496 api-ms-win-core-libraryloader-l1-1-0.dll
+09/07/2024  01:01 AM            13,032 api-ms-win-core-localization-l1-2-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-core-memory-l1-1-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-namedpipe-l1-1-0.dll
+09/07/2024  01:01 AM            11,496 api-ms-win-core-processenvironment-l1-1-0.dll
+09/07/2024  01:01 AM            12,520 api-ms-win-core-processthreads-l1-1-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-core-processthreads-l1-1-1.dll
+09/07/2024  01:01 AM             9,960 api-ms-win-core-profile-l1-1-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-core-rtlsupport-l1-1-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-string-l1-1-0.dll
+09/07/2024  01:01 AM            12,520 api-ms-win-core-synch-l1-1-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-core-synch-l1-2-0.dll
+09/07/2024  01:01 AM            11,496 api-ms-win-core-sysinfo-l1-1-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-core-timezone-l1-1-0.dll
+09/07/2024  01:01 AM            10,472 api-ms-win-core-util-l1-1-0.dll
+09/07/2024  01:01 AM            11,496 api-ms-win-crt-conio-l1-1-0.dll
+09/07/2024  01:01 AM            14,568 api-ms-win-crt-convert-l1-1-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-crt-environment-l1-1-0.dll
+09/07/2024  01:01 AM            12,520 api-ms-win-crt-filesystem-l1-1-0.dll
+09/07/2024  01:01 AM            11,496 api-ms-win-crt-heap-l1-1-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-crt-locale-l1-1-0.dll
+09/07/2024  01:01 AM            19,688 api-ms-win-crt-math-l1-1-0.dll
+09/07/2024  01:01 AM            18,664 api-ms-win-crt-multibyte-l1-1-0.dll
+09/07/2024  01:01 AM            63,208 api-ms-win-crt-private-l1-1-0.dll
+09/07/2024  01:01 AM            11,496 api-ms-win-crt-process-l1-1-0.dll
+09/07/2024  01:01 AM            15,080 api-ms-win-crt-runtime-l1-1-0.dll
+09/07/2024  01:01 AM            16,616 api-ms-win-crt-stdio-l1-1-0.dll
+09/07/2024  01:01 AM            16,616 api-ms-win-crt-string-l1-1-0.dll
+09/07/2024  01:01 AM            13,032 api-ms-win-crt-time-l1-1-0.dll
+09/07/2024  01:01 AM            10,984 api-ms-win-crt-utility-l1-1-0.dll
+09/07/2024  01:01 AM            17,912 api-ms-win-eventing-provider-l1-1-0.dll
+09/07/2024  01:01 AM           191,488 CAPSImg.dll
+09/07/2024  01:01 AM             1,235 COPYING
+09/07/2024  01:01 AM             3,326 frozen_application_license.txt
+09/07/2024  01:01 AM            16,896 gw.exe
+09/07/2024  01:02 AM    <DIR>          lib
+09/07/2024  01:01 AM           618,728 msvcp140.dll
+09/07/2024  01:01 AM            67,352 python3.dll
+09/07/2024  01:01 AM         5,800,216 python311.dll
+09/07/2024  01:01 AM               436 README
+09/07/2024  01:01 AM            21,337 RELEASE_NOTES
+09/07/2024  01:01 AM         1,008,360 ucrtbase.dll
+09/07/2024  01:01 AM           119,192 vcruntime140.dll
+09/07/2024  01:01 AM            49,528 vcruntime140_1.dll
+09/07/2024  01:01 AM                 5 VERSION
+              56 File(s)      8,495,883 bytes
+               3 Dir(s)  97,305,096,192 bytes free
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw
+Usage: gw [--time] [action] [-h] ...
+  --time      Print elapsed time after action is executed
+  -h, --help  Show help message for specified action
+Actions:
+  info        Display information about the Greaseweazle setup.
+  read        Read a disk to the specified image file.
+  write       Write a disk from the specified image file.
+  convert     Convert between image formats.
+  erase       Erase a disk.
+  clean       Clean a drive in a zig-zag pattern using a cleaning disk.
+  seek        Seek to the specified cylinder.
+  delays      Display (and optionally modify) drive-delay parameters.
+  update      Update the Greaseweazle device firmware to latest (or specified) version.
+  pin         Change the setting of a user-modifiable interface pin.
+  reset       Reset the Greaseweazle device to power-on default state.
+  bandwidth   Report the available USB bandwidth for the Greaseweazle device.
+  rpm         Measure RPM of drive spindle.
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+** FATAL ERROR:
+Cannot find the Greaseweazle device
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+** FATAL ERROR:
+Cannot find the Greaseweazle device
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+** FATAL ERROR:
+Cannot find the Greaseweazle device
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+** FATAL ERROR:
+Cannot find the Greaseweazle device
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+** FATAL ERROR:
+Cannot find the Greaseweazle device
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+** FATAL ERROR:
+Cannot find the Greaseweazle device
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+** FATAL ERROR:
+Cannot find the Greaseweazle device
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+** FATAL ERROR:
+Cannot find the Greaseweazle device
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw reset
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw status
+Usage: gw [--time] [action] [-h] ...
+  --time      Print elapsed time after action is executed
+  -h, --help  Show help message for specified action
+Actions:
+  info        Display information about the Greaseweazle setup.
+  read        Read a disk to the specified image file.
+  write       Write a disk from the specified image file.
+  convert     Convert between image formats.
+  erase       Erase a disk.
+  clean       Clean a drive in a zig-zag pattern using a cleaning disk.
+  seek        Seek to the specified cylinder.
+  delays      Display (and optionally modify) drive-delay parameters.
+  update      Update the Greaseweazle device firmware to latest (or specified) version.
+  pin         Change the setting of a user-modifiable interface pin.
+  reset       Reset the Greaseweazle device to power-on default state.
+  bandwidth   Report the available USB bandwidth for the Greaseweazle device.
+  rpm         Measure RPM of drive spindle.
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm
+Command Failed: GetFluxStatus: No Index
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm
+Command Failed: GetFluxStatus: No Index
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm --ststu
+usage: gw rpm [options]
+gw rpm: error: unrecognized arguments: --ststu
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm --statud
+usage: gw rpm [options]
+gw rpm: error: unrecognized arguments: --statud
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm --help
+usage: gw rpm [options]
+
+Measure RPM of drive spindle.
+
+options:
+  -h, --help       show this help message and exit
+  --device DEVICE  greaseweazle device name
+  --drive DRIVE    drive to read (default: A)
+  --nr N           number of iterations (default: 1)
+
+DRIVE: Drive (and bus) identifier:
+  0 | 1 | 2           :: Shugart bus unit
+  A | B               :: IBM/PC bus unit
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm --drive 0
+Command Failed: GetFluxStatus: No Index
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm --drive a
+Command Failed: GetFluxStatus: No Index
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm --drive b
+Rate: 297.938 rpm ; Period: 201.384 ms
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw rpm --drive b
+Rate: 297.956 rpm ; Period: 201.372 ms
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --drive b
+usage: gw read [options] file
+gw read: error: the following arguments are required: file
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read
+usage: gw read [options] file
+gw read: error: the following arguments are required: file
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --help
+usage: gw read [options] file
+
+Read a disk to the specified image file.
+
+positional arguments:
+  file                  output filename
+
+options:
+  -h, --help            show this help message and exit
+  --device DEVICE       device name (COM/serial port)
+  --drive DRIVE         drive to read (default: A)
+  --diskdefs DISKDEFS   disk definitions file
+  --format FORMAT       disk format (output is converted unless --raw)
+  --revs N              number of revolutions to read per track
+  --tracks TSPEC        which tracks to read
+  --raw                 output raw stream (--format verifies only)
+  --fake-index SPEED    fake index pulses at SPEED
+  --adjust-speed SPEED  scale track data to effective drive SPEED
+  --retries N           number of retries per seek-retry (default: 3)
+  --seek-retries N      number of seek retries (default: 0)
+  -n, --no-clobber      do not overwrite an existing file
+  --pll PLLSPEC         manual PLL parameter override
+  --densel LEVEL, --dd LEVEL
+                        drive interface density select on pin 2 (H,L)
+  --reverse             reverse track data (flippy disk)
+
+DRIVE: Drive (and bus) identifier:
+  0 | 1 | 2           :: Shugart bus unit
+  A | B               :: IBM/PC bus unit
+
+SPEED: Track rotation time specified as:
+  <N>rpm | <N>ms | <N>us | <N>ns | <N>scp | <N>
+
+TSPEC: Colon-separated list of:
+  c=SET               :: Set of cylinders to access
+  h=SET               :: Set of heads (sides) to access
+  step=[0-9]          :: # physical head steps between cylinders
+  hswap               :: Swap physical drive heads
+  h[01].off=[+-][0-9] :: Physical cylinder offsets per head
+  SET is a comma-separated list of integers and integer ranges
+  e.g. 'c=0-7,9-12:h=0-1'
+
+PLLSPEC: Colon-separated list of:
+  period=PCT          :: Period adjustment as percentage of phase error
+  phase=PCT           :: Phase adjustment as percentage of phase error
+  lowpass=USEC        :: Filter flux periods shorter than USEC
+  Defaults: period=5:phase=60 (no lowpass filter)
+
+FORMAT options:
+acorn.adfs.160           acorn.adfs.1600          acorn.adfs.320
+acorn.adfs.640           acorn.adfs.800           acorn.dfs.ds
+acorn.dfs.ds80           acorn.dfs.ss             acorn.dfs.ss80
+akai.1600                akai.800                 amiga.amigados
+amiga.amigados_hd        apple2.appledos.140      apple2.nofs.140
+apple2.prodos.140        atari.90                 atarist.360
+atarist.400              atarist.440              atarist.720
+atarist.800              atarist.880              coco.decb
+coco.decb.40t            coco.os9.40ds            coco.os9.40ss
+coco.os9.80ds            coco.os9.80ss            commodore.1541
+commodore.1571           commodore.1581           commodore.cmd.fd2000.dd
+commodore.cmd.fd2000.hd  commodore.cmd.fd4000.ed  dec.rx01
+dec.rx02                 dragon.40ds              dragon.40ss
+dragon.80ds              dragon.80ss              ensoniq.1600
+ensoniq.800              ensoniq.mirage           epson.qx10.320
+epson.qx10.396           epson.qx10.399           epson.qx10.400
+epson.qx10.booter        epson.qx10.logo          gem.1600
+hp.mmfm.9885             hp.mmfm.9895             ibm.1200
+ibm.1440                 ibm.160                  ibm.1680
+ibm.180                  ibm.2880                 ibm.320
+ibm.360                  ibm.720                  ibm.800
+ibm.dmf                  ibm.scan                 mac.400
+mac.800                  mm1.os9.80dshd_32        mm1.os9.80dshd_33
+mm1.os9.80dshd_36        mm1.os9.80dshd_37        msx.1d
+msx.1dd                  msx.2d                   msx.2dd
+northstar.fm.ds          northstar.fm.ss          northstar.mfm.ds
+northstar.mfm.ss         occ1.dd                  occ1.sd
+olivetti.m20             pc98.2d                  pc98.2dd
+pc98.2hd                 pc98.2hs                 pc98.n88basic.hd
+raw.125                  raw.250                  raw.500
+sci.prophet              sega.sf7000              tsc.flex.dsdd
+tsc.flex.ssdd            zx.quorum.800            zx.trdos.640
+
+Supported file suffixes:
+.a2r   .adf   .ads   .adm   .adl   .ctr   .d1m   .d2m   .d4m   .d64   .d71
+.d81   .d88   .dcp   .dim   .do    .dsd   .dsk   .edsk  .fdi   .hdm   .hfe
+.ima   .img   .imd   .ipf   .mgt   .msa   .nfd   .nsi   .po    .raw   .sf7
+.scp   .ssd   .st    .td0   .xdf
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=40:h=1:step=0 test.raw
+Reading c=40:h=1:step=0 revs=1
+Format raw.250
+** FATAL ERROR:
+Bad Kryoflux image name pattern 'test.raw'
+Name pattern must be path/to/nameNN.N.raw (N is a digit)
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=40:h=1:step=0 test
+** FATAL ERROR:
+test: Unrecognised file suffix ''
+Known suffixes:
+.a2r   .adf   .ads   .adm   .adl   .ctr   .d1m   .d2m   .d4m   .d64   .d71
+.d81   .d88   .dcp   .dim   .do    .dsd   .dsk   .edsk  .fdi   .hdm   .hfe
+.ima   .img   .imd   .ipf   .mgt   .msa   .nfd   .nsi   .po    .raw   .sf7
+.scp   .ssd   .st    .td0   .xdf
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=40:h=1:step=0 test00.0.raw
+Reading c=40:h=1:step=0 revs=1
+Format raw.250
+T40.1 <- Drive 0.1: Raw Bitcell (99568 bits, 201.54ms) from Raw Flux (37142 flux in 202.04ms)
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=40:h=1:step=0 test.scp
+Reading c=40:h=1:step=0 revs=1
+Format raw.250
+T40.1 <- Drive 0.1: Raw Bitcell (98846 bits, 201.54ms) from Raw Flux (36995 flux in 202.04ms)
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=40:h=1:step=0 test.scp
+Reading c=40:h=1:step=0 revs=1
+Format raw.250
+T40.1 <- Drive 0.1: Raw Bitcell (99846 bits, 201.52ms) from Raw Flux (37140 flux in 202.02ms)
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=40:h=1:step=0 test.scp
+Reading c=40:h=1:step=0 revs=1
+Format raw.250
+Command Failed: GetFluxStatus: No Index
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=40:h=1:step=0 test.scp
+Reading c=40:h=1:step=0 revs=1
+Format raw.250
+T40.1 <- Drive 0.1: Raw Bitcell (99629 bits, 201.46ms) from Raw Flux (37286 flux in 201.97ms)
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=40:h=1:step=0 test.scp
+Reading c=40:h=1:step=0 revs=1
+Format raw.250
+T40.1 <- Drive 0.1: Raw Bitcell (100095 bits, 201.37ms) from Raw Flux (29618 flux in 201.87ms)
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=0-39:h=1:step=0 test.scp
+Reading c=0-39:h=1:step=0 revs=1
+Format raw.250
+T0.1: Raw Bitcell (100095 bits, 201.39ms) from Raw Flux (29620 flux in 201.89ms)
+T1.1 <- Drive 0.1: Raw Bitcell (100094 bits, 201.35ms) from Raw Flux (29618 flux in 201.85ms)
+T2.1 <- Drive 0.1: Raw Bitcell (100094 bits, 201.32ms) from Raw Flux (29616 flux in 201.82ms)
+T3.1 <- Drive 0.1: Raw Bitcell (100095 bits, 201.31ms) from Raw Flux (29620 flux in 201.81ms)
+T4.1 <- Drive 0.1: Raw Bitcell (100094 bits, 201.30ms) from Raw Flux (29620 flux in 201.79ms)
+T5.1 <- Drive 0.1: Raw Bitcell (100094 bits, 201.29ms) from Raw Flux (29620 flux in 201.79ms)
+
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=0-39:h=1:step=0 test.scp
+Reading c=0-39:h=1:step=0 revs=1
+Format raw.250
+T0.1: Raw Bitcell (99932 bits, 201.45ms) from Raw Flux (37147 flux in 201.95ms)
+T1.1 <- Drive 0.1: Raw Bitcell (99811 bits, 201.42ms) from Raw Flux (37107 flux in 201.92ms)
+T2.1 <- Drive 0.1: Raw Bitcell (99818 bits, 201.41ms) from Raw Flux (37294 flux in 201.90ms)
+T3.1 <- Drive 0.1: Raw Bitcell (99486 bits, 201.40ms) from Raw Flux (37092 flux in 201.89ms)
+T4.1 <- Drive 0.1: Raw Bitcell (99546 bits, 201.39ms) from Raw Flux (37207 flux in 201.88ms)
+T5.1 <- Drive 0.1: Raw Bitcell (99515 bits, 201.39ms) from Raw Flux (37201 flux in 201.89ms)
+T6.1 <- Drive 0.1: Raw Bitcell (99921 bits, 201.38ms) from Raw Flux (37316 flux in 201.88ms)
+T7.1 <- Drive 0.1: Raw Bitcell (100385 bits, 201.38ms) from Raw Flux (37281 flux in 201.88ms)
+T8.1 <- Drive 0.1: Raw Bitcell (99524 bits, 201.38ms) from Raw Flux (37426 flux in 201.88ms)
+T9.1 <- Drive 0.1: Raw Bitcell (99764 bits, 201.38ms) from Raw Flux (37261 flux in 201.87ms)
+T10.1 <- Drive 0.1: Raw Bitcell (99680 bits, 201.37ms) from Raw Flux (37117 flux in 201.87ms)
+T11.1 <- Drive 0.1: Raw Bitcell (100174 bits, 201.37ms) from Raw Flux (37371 flux in 201.87ms)
+T12.1 <- Drive 0.1: Raw Bitcell (100356 bits, 201.37ms) from Raw Flux (37314 flux in 201.87ms)
+T13.1 <- Drive 0.1: Raw Bitcell (100207 bits, 201.37ms) from Raw Flux (37195 flux in 201.87ms)
+T14.1 <- Drive 0.1: Raw Bitcell (99971 bits, 201.37ms) from Raw Flux (37258 flux in 201.87ms)
+T15.1 <- Drive 0.1: Raw Bitcell (99671 bits, 201.37ms) from Raw Flux (37316 flux in 201.87ms)
+T16.1 <- Drive 0.1: Raw Bitcell (99259 bits, 201.37ms) from Raw Flux (37413 flux in 201.86ms)
+T17.1 <- Drive 0.1: Raw Bitcell (99368 bits, 201.37ms) from Raw Flux (37232 flux in 201.87ms)
+T18.1 <- Drive 0.1: Raw Bitcell (100228 bits, 201.37ms) from Raw Flux (37398 flux in 201.87ms)
+T19.1 <- Drive 0.1: Raw Bitcell (99842 bits, 201.37ms) from Raw Flux (37234 flux in 201.87ms)
+T20.1 <- Drive 0.1: Raw Bitcell (100439 bits, 201.37ms) from Raw Flux (37324 flux in 201.87ms)
+T21.1 <- Drive 0.1: Raw Bitcell (100056 bits, 201.36ms) from Raw Flux (37253 flux in 201.86ms)
+T22.1 <- Drive 0.1: Raw Bitcell (99372 bits, 201.37ms) from Raw Flux (37402 flux in 201.87ms)
+T23.1 <- Drive 0.1: Raw Bitcell (100249 bits, 201.37ms) from Raw Flux (37226 flux in 201.86ms)
+T24.1 <- Drive 0.1: Raw Bitcell (99908 bits, 201.37ms) from Raw Flux (37442 flux in 201.86ms)
+T25.1 <- Drive 0.1: Raw Bitcell (99998 bits, 201.36ms) from Raw Flux (37505 flux in 201.86ms)
+T26.1 <- Drive 0.1: Raw Bitcell (98928 bits, 201.36ms) from Raw Flux (37273 flux in 201.86ms)
+T27.1 <- Drive 0.1: Raw Bitcell (99569 bits, 201.36ms) from Raw Flux (37250 flux in 201.87ms)
+T28.1 <- Drive 0.1: Raw Bitcell (99619 bits, 201.36ms) from Raw Flux (37606 flux in 201.87ms)
+T29.1 <- Drive 0.1: Raw Bitcell (100666 bits, 201.37ms) from Raw Flux (37464 flux in 201.87ms)
+T30.1 <- Drive 0.1: Raw Bitcell (100391 bits, 201.36ms) from Raw Flux (37422 flux in 201.86ms)
+T31.1 <- Drive 0.1: Raw Bitcell (100199 bits, 201.36ms) from Raw Flux (37409 flux in 201.86ms)
+T32.1 <- Drive 0.1: Raw Bitcell (100220 bits, 201.36ms) from Raw Flux (37364 flux in 201.86ms)
+
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>gw read --format raw.250 --drive b --tracks c=0-39:h=0-1:step=0 test.scp
+Reading c=0-39:h=0-1:step=0 revs=1
+Format raw.250
+T0.0: Raw Bitcell (99716 bits, 201.51ms) from Raw Flux (39030 flux in 202.01ms)
+T1.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.47ms) from Raw Flux (39030 flux in 201.97ms)
+T2.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.45ms) from Raw Flux (39032 flux in 201.94ms)
+T3.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.43ms) from Raw Flux (39030 flux in 201.93ms)
+T4.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.42ms) from Raw Flux (39030 flux in 201.92ms)
+T5.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.41ms) from Raw Flux (39030 flux in 201.91ms)
+T6.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.41ms) from Raw Flux (39030 flux in 201.91ms)
+T7.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.40ms) from Raw Flux (39032 flux in 201.90ms)
+T8.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.40ms) from Raw Flux (39030 flux in 201.90ms)
+T9.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.39ms) from Raw Flux (39032 flux in 201.89ms)
+T10.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.39ms) from Raw Flux (39032 flux in 201.89ms)
+T11.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.39ms) from Raw Flux (39030 flux in 201.89ms)
+T12.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.39ms) from Raw Flux (39032 flux in 201.88ms)
+T13.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.38ms) from Raw Flux (39030 flux in 201.88ms)
+T14.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.38ms) from Raw Flux (39032 flux in 201.88ms)
+T15.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.38ms) from Raw Flux (39030 flux in 201.88ms)
+T16.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.38ms) from Raw Flux (39030 flux in 201.88ms)
+T17.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.38ms) from Raw Flux (39032 flux in 201.87ms)
+T18.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.38ms) from Raw Flux (39028 flux in 201.87ms)
+T19.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.37ms) from Raw Flux (39030 flux in 201.87ms)
+T20.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.37ms) from Raw Flux (39032 flux in 201.87ms)
+T21.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.37ms) from Raw Flux (39032 flux in 201.87ms)
+T22.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.37ms) from Raw Flux (39030 flux in 201.87ms)
+T23.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.37ms) from Raw Flux (39030 flux in 201.87ms)
+T24.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.37ms) from Raw Flux (39030 flux in 201.87ms)
+T25.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.37ms) from Raw Flux (39032 flux in 201.87ms)
+T26.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.37ms) from Raw Flux (39032 flux in 201.87ms)
+T27.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.37ms) from Raw Flux (39032 flux in 201.87ms)
+T28.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.37ms) from Raw Flux (39032 flux in 201.87ms)
+T29.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.37ms) from Raw Flux (39033 flux in 201.86ms)
+T30.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.36ms) from Raw Flux (39030 flux in 201.86ms)
+T31.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.37ms) from Raw Flux (39032 flux in 201.87ms)
+T32.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.36ms) from Raw Flux (39030 flux in 201.86ms)
+T33.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.36ms) from Raw Flux (39030 flux in 201.86ms)
+T34.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.36ms) from Raw Flux (39028 flux in 201.86ms)
+T35.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.36ms) from Raw Flux (39030 flux in 201.86ms)
+T36.0 <- Drive 0.0: Raw Bitcell (99716 bits, 201.36ms) from Raw Flux (39030 flux in 201.86ms)
+T37.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.36ms) from Raw Flux (39030 flux in 201.86ms)
+T38.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.36ms) from Raw Flux (39030 flux in 201.86ms)
+T39.0 <- Drive 0.0: Raw Bitcell (99715 bits, 201.36ms) from Raw Flux (39030 flux in 201.86ms)
+T0.1: Raw Bitcell (100260 bits, 201.36ms) from Raw Flux (37444 flux in 201.86ms)
+T1.1 <- Drive 0.1: Raw Bitcell (100496 bits, 201.36ms) from Raw Flux (37547 flux in 201.86ms)
+T2.1 <- Drive 0.1: Raw Bitcell (100259 bits, 201.36ms) from Raw Flux (37573 flux in 201.86ms)
+T3.1 <- Drive 0.1: Raw Bitcell (99814 bits, 201.36ms) from Raw Flux (37471 flux in 201.86ms)
+T4.1 <- Drive 0.1: Raw Bitcell (99761 bits, 201.36ms) from Raw Flux (37449 flux in 201.85ms)
+T5.1 <- Drive 0.1: Raw Bitcell (101429 bits, 201.36ms) from Raw Flux (37427 flux in 201.86ms)
+T6.1 <- Drive 0.1: Raw Bitcell (99948 bits, 201.36ms) from Raw Flux (37491 flux in 201.86ms)
+T7.1 <- Drive 0.1: Raw Bitcell (99672 bits, 201.36ms) from Raw Flux (37601 flux in 201.86ms)
+T8.1 <- Drive 0.1: Raw Bitcell (99704 bits, 201.36ms) from Raw Flux (37519 flux in 201.86ms)
+T9.1 <- Drive 0.1: Raw Bitcell (100177 bits, 201.36ms) from Raw Flux (37378 flux in 201.86ms)
+T10.1 <- Drive 0.1: Raw Bitcell (100130 bits, 201.35ms) from Raw Flux (37517 flux in 201.85ms)
+T11.1 <- Drive 0.1: Raw Bitcell (100642 bits, 201.36ms) from Raw Flux (37321 flux in 201.86ms)
+T12.1 <- Drive 0.1: Raw Bitcell (100066 bits, 201.36ms) from Raw Flux (37497 flux in 201.86ms)
+T13.1 <- Drive 0.1: Raw Bitcell (99917 bits, 201.36ms) from Raw Flux (37466 flux in 201.86ms)
+T14.1 <- Drive 0.1: Raw Bitcell (100481 bits, 201.35ms) from Raw Flux (37409 flux in 201.85ms)
+T15.1 <- Drive 0.1: Raw Bitcell (101071 bits, 201.35ms) from Raw Flux (37341 flux in 201.85ms)
+T16.1 <- Drive 0.1: Raw Bitcell (99534 bits, 201.36ms) from Raw Flux (37555 flux in 201.86ms)
+T17.1 <- Drive 0.1: Raw Bitcell (100172 bits, 201.36ms) from Raw Flux (37517 flux in 201.86ms)
+T18.1 <- Drive 0.1: Raw Bitcell (100318 bits, 201.36ms) from Raw Flux (37394 flux in 201.85ms)
+T19.1 <- Drive 0.1: Raw Bitcell (99548 bits, 201.36ms) from Raw Flux (37481 flux in 201.85ms)
+T20.1 <- Drive 0.1: Raw Bitcell (99690 bits, 201.35ms) from Raw Flux (37507 flux in 201.85ms)
+T21.1 <- Drive 0.1: Raw Bitcell (100115 bits, 201.36ms) from Raw Flux (37261 flux in 201.85ms)
+T22.1 <- Drive 0.1: Raw Bitcell (100527 bits, 201.36ms) from Raw Flux (37653 flux in 201.86ms)
+T23.1 <- Drive 0.1: Raw Bitcell (100701 bits, 201.36ms) from Raw Flux (37566 flux in 201.86ms)
+T24.1 <- Drive 0.1: Raw Bitcell (100534 bits, 201.36ms) from Raw Flux (37485 flux in 201.86ms)
+T25.1 <- Drive 0.1: Raw Bitcell (100790 bits, 201.36ms) from Raw Flux (37344 flux in 201.85ms)
+T26.1 <- Drive 0.1: Raw Bitcell (100327 bits, 201.35ms) from Raw Flux (37391 flux in 201.85ms)
+T27.1 <- Drive 0.1: Raw Bitcell (100902 bits, 201.36ms) from Raw Flux (37550 flux in 201.85ms)
+T28.1 <- Drive 0.1: Raw Bitcell (99539 bits, 201.35ms) from Raw Flux (37455 flux in 201.85ms)
+T29.1 <- Drive 0.1: Raw Bitcell (100407 bits, 201.35ms) from Raw Flux (37463 flux in 201.85ms)
+T30.1 <- Drive 0.1: Raw Bitcell (100253 bits, 201.35ms) from Raw Flux (37557 flux in 201.85ms)
+T31.1 <- Drive 0.1: Raw Bitcell (100230 bits, 201.35ms) from Raw Flux (37427 flux in 201.85ms)
+T32.1 <- Drive 0.1: Raw Bitcell (101168 bits, 201.36ms) from Raw Flux (37441 flux in 201.85ms)
+T33.1 <- Drive 0.1: Raw Bitcell (100469 bits, 201.35ms) from Raw Flux (37508 flux in 201.85ms)
+T34.1 <- Drive 0.1: Raw Bitcell (100937 bits, 201.36ms) from Raw Flux (37489 flux in 201.86ms)
+T35.1 <- Drive 0.1: Raw Bitcell (99292 bits, 201.35ms) from Raw Flux (37249 flux in 201.85ms)
+T36.1 <- Drive 0.1: Raw Bitcell (100023 bits, 201.36ms) from Raw Flux (37482 flux in 201.86ms)
+T37.1 <- Drive 0.1: Raw Bitcell (99898 bits, 201.35ms) from Raw Flux (37515 flux in 201.85ms)
+T38.1 <- Drive 0.1: Raw Bitcell (99678 bits, 201.36ms) from Raw Flux (37487 flux in 201.86ms)
+T39.1 <- Drive 0.1: Raw Bitcell (100902 bits, 201.35ms) from Raw Flux (37402 flux in 201.85ms)
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>start .
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>start .
+
+C:\Users\Forgotten Machines\Desktop\GW\greaseweazle-1.19-win64\greaseweazle-1.19>
