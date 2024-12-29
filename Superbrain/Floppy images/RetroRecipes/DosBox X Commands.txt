@@ -1,3 +1,4 @@
 IMGMAKE "D:\Data\MightyFrame\GitHub\Intertec\Superbrain\Floppy images\RetroRecipes\RRLogos.img" -t fd_360
+IMGMAKE "D:\Data\MightyFrame\GitHub\Intertec\Superbrain\Floppy images\RetroRecipes\RRLogos.img" -t fd_180
 
 edit RR-Logo-BIG-R.txt
