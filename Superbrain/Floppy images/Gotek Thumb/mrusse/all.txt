@@ -1,0 +1,28 @@
+ Volume in drive D is Main 
+ Volume Serial Number is 54C9-9E05
+
+ Directory of D:\Data\MightyFrame\GitHub\Intertec\Superbrain\Floppy images\Gotek Thumb\mrusse
+
+04/22/2025  08:00 PM    <DIR>          .
+04/12/2025  11:25 PM    <DIR>          ..
+04/22/2025  08:00 PM                 0 all.txt
+09/20/2023  05:31 AM           879,104 DSKA0000.hfe
+09/20/2023  05:31 AM           879,104 DSKA0001.hfe
+09/20/2023  05:31 AM           879,104 DSKA0002.hfe
+09/20/2023  05:31 AM           879,104 DSKA0003.hfe
+09/20/2023  05:31 AM           879,104 DSKA0004.hfe
+09/20/2023  05:31 AM         1,054,720 DSKA0005.hfe
+09/20/2023  05:31 AM           879,104 DSKA0006.hfe
+09/20/2023  05:31 AM           879,104 DSKA0007.hfe
+09/20/2023  05:31 AM         1,054,720 DSKA0008.hfe
+09/20/2023  05:31 AM         1,054,720 DSKA0009.hfe
+09/20/2023  05:31 AM           879,104 DSKA0010.hfe
+09/20/2023  05:31 AM           879,104 DSKA0011.hfe
+09/20/2023  05:31 AM           879,104 DSKA0012.hfe
+09/20/2023  05:31 AM           879,104 DSKA0013.hfe
+09/20/2023  05:31 AM           879,104 DSKA0014.hfe
+09/20/2023  05:31 AM           879,104 DSKA0015.hfe
+09/20/2023  05:31 AM           879,104 DSKA0016.hfe
+09/20/2023  05:31 AM           879,104 DSKA0017.hfe
+              19 File(s)     16,350,720 bytes
+               2 Dir(s)   5,306,015,744 bytes free
